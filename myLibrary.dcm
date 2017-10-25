@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATmega328P-PU_ArduinoPinout
+D 8-bit AVR microcontroller, PDIP28 Narrow, 32k Flash, 2kB SRAM, 1kB EEPROM, Arduino pinout
+K AVR 8bit Microcontroller MegaAVR PicoPower Arduino
+F https://www.arduino.cc/en/Hacking/PinMapping168
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+#End Doc Library
