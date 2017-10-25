@@ -8,7 +8,7 @@
     (drawings 15)
     (tracks 0)
     (zones 0)
-    (modules 35)
+    (modules 36)
     (nets 20)
   )
 
@@ -211,7 +211,7 @@
   )
 
   (module LEDs:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 59F0BE0E)
-    (at 124 110)
+    (at 123 113)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /59EFED9B)
@@ -509,7 +509,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0BE43)
-    (at 115 95 333.4)
+    (at 112 98 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59EFED4B)
@@ -547,7 +547,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0BE49)
-    (at 125 100 333.4)
+    (at 122 103 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59EFEE1B)
@@ -585,7 +585,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0BE4F)
-    (at 135 105 333.4)
+    (at 132 108 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59EFEF89)
@@ -623,7 +623,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0BE55)
-    (at 145 110 333.4)
+    (at 142 113 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59EFF0C1)
@@ -871,7 +871,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0E638)
-    (at 125 65 333.4)
+    (at 126 64 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59F0ED78)
@@ -909,7 +909,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0E63E)
-    (at 135 70 333.4)
+    (at 136 69 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59F0EF38)
@@ -947,7 +947,7 @@
   )
 
   (module Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5874F706) (tstamp 59F0E644)
-    (at 145 75 333.4)
+    (at 146 74 333.4)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /59F0F2FD)
@@ -997,7 +997,7 @@
   )
 
   (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC25)
-    (at 134 115)
+    (at 133 116)
     (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1109,6 +1109,18 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad "" smd rect (at 0 0) (size 10 15) (layers F.Mask))
+  )
+
+  (module myLibrary:CandyCane (layer F.Cu) (tedit 59F0EAEB) (tstamp 59F0EF9F)
+    (at 128 99 340)
+    (fp_text reference REF** (at 0 -4.5 340) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value CandyCane (at 0 2.5 340) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 1 -2.5) (end 1 1.5) (layer F.SilkS) (width 0.5))
+    (fp_arc (start 0 -2.5) (end -1 -2.5) (angle 180) (layer F.SilkS) (width 0.5))
   )
 
   (gr_line (start 95 120) (end 130 120) (angle 90) (layer Edge.Cuts) (width 0.15))
