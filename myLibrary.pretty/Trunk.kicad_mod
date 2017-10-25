@@ -1,0 +1,9 @@
+(module Trunk (layer F.Cu) (tedit 59F0ED93)
+  (fp_text reference REF** (at 0 -8.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Trunk (at 0 8.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" smd rect (at 0 0) (size 10 15) (layers F.Mask))
+)
