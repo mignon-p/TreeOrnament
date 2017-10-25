@@ -1,14 +1,14 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7)
 
   (general
-    (links 30)
+    (links 0)
     (no_connects 30)
     (area 94.924999 29.924999 175.075001 135.075001)
     (thickness 1.6)
     (drawings 15)
     (tracks 0)
     (zones 0)
-    (modules 22)
+    (modules 34)
     (nets 20)
   )
 
@@ -137,6 +137,42 @@
     (add_net "Net-(J1-Pad2)")
     (add_net "Net-(J1-Pad3)")
     (add_net "Net-(J1-Pad4)")
+  )
+
+  (module myLibrary:CandyCane (layer F.Cu) (tedit 59F0EAEB) (tstamp 59F0EC12)
+    (at 144 55 340)
+    (fp_text reference REF** (at 0 -4.5 340) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value CandyCane (at 0 2.5 340) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 1 -2.5) (end 1 1.5) (layer F.SilkS) (width 0.5))
+    (fp_arc (start 0 -2.5) (end -1 -2.5) (angle 180) (layer F.SilkS) (width 0.5))
+  )
+
+  (module myLibrary:CandyCane (layer F.Cu) (tedit 59F0EAEB) (tstamp 59F0EC04)
+    (at 123 74 340)
+    (fp_text reference REF** (at 0 -4.5 340) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value CandyCane (at 0 2.5 340) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 1 -2.5) (end 1 1.5) (layer F.SilkS) (width 0.5))
+    (fp_arc (start 0 -2.5) (end -1 -2.5) (angle 180) (layer F.SilkS) (width 0.5))
+  )
+
+  (module myLibrary:CandyCane (layer F.Cu) (tedit 59F0EAEB) (tstamp 59F0EBF8)
+    (at 116 114 340)
+    (fp_text reference REF** (at 0 -4.5 340) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value CandyCane (at 0 2.5 340) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 1 -2.5) (end 1 1.5) (layer F.SilkS) (width 0.5))
+    (fp_arc (start 0 -2.5) (end -1 -2.5) (angle 180) (layer F.SilkS) (width 0.5))
   )
 
   (module LEDs:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 59F0BE08)
@@ -946,6 +982,122 @@
       (scale (xyz 0.393701 0.393701 0.393701))
       (rotate (xyz 0 0 0))
     )
+  )
+
+  (module myLibrary:CandyCane (layer F.Cu) (tedit 59F0EAEB) (tstamp 59F0EBBF)
+    (at 151 87 340)
+    (fp_text reference REF** (at 0 -4.5 340) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value CandyCane (at 0 2.5 340) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 1 -2.5) (end 1 1.5) (layer F.SilkS) (width 0.5))
+    (fp_arc (start 0 -2.5) (end -1 -2.5) (angle 180) (layer F.SilkS) (width 0.5))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC25)
+    (at 134 115)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC32)
+    (at 106 115)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC3C)
+    (at 118 86)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC48)
+    (at 147 104)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC4E)
+    (at 137 80)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC59)
+    (at 136 59)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC5F)
+    (at 137 41)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
+  )
+
+  (module myLibrary:Ornament (layer F.Cu) (tedit 59F0E9BE) (tstamp 59F0EC66)
+    (at 124 52)
+    (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Ornament (at 0 2.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 smd circle (at 0 0) (size 4 4) (layers F.Cu F.Mask))
+    (pad 2 smd rect (at 0 -2) (size 1 1) (layers F.Cu F.Mask))
+    (pad 3 smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Cu F.Mask))
   )
 
   (gr_line (start 95 120) (end 130 120) (angle 90) (layer Edge.Cuts) (width 0.15))
