@@ -1,0 +1,10 @@
+(module CandyCane (layer F.Cu) (tedit 59F0EAEB)
+  (fp_text reference REF** (at 0 -4.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CandyCane (at 0 2.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 1 -2.5) (end 1 1.5) (layer F.SilkS) (width 0.5))
+  (fp_arc (start 0 -2.5) (end -1 -2.5) (angle 180) (layer F.SilkS) (width 0.5))
+)
