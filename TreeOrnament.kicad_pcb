@@ -792,7 +792,7 @@
     (fp_text reference R1 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -824,7 +824,7 @@
     (fp_text reference R2 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -856,7 +856,7 @@
     (fp_text reference R3 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -888,7 +888,7 @@
     (fp_text reference R4 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -920,7 +920,7 @@
     (fp_text reference R5 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -952,7 +952,7 @@
     (fp_text reference R6 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -984,7 +984,7 @@
     (fp_text reference R7 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1016,7 +1016,7 @@
     (fp_text reference R8 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1048,7 +1048,7 @@
     (fp_text reference R9 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1080,7 +1080,7 @@
     (fp_text reference R10 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1112,7 +1112,7 @@
     (fp_text reference R11 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1144,7 +1144,7 @@
     (fp_text reference R12 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1176,7 +1176,7 @@
     (fp_text reference R13 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
@@ -1208,7 +1208,7 @@
     (fp_text reference R14 (at 2.54 -1.86 333.4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 56 (at 2.54 1.86 333.4) (layer F.Fab) hide
+    (fp_text value 150 (at 2.54 1.86 333.4) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.74 -0.8) (end 0.74 0.8) (layer F.Fab) (width 0.1))
