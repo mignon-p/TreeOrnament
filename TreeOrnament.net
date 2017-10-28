@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/ppelleti/cad/TreeOrnament/TreeOrnament.sch)
-    (date "Saturday, October 28, 2017 'AMt' 11:54:32 AM")
+    (date "Saturday, October 28, 2017 'PMt' 12:11:06 PM")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref J1)
       (value USB_B_Micro)
-      (footprint myLibrary:USB_Micro-B_Wuerth-614105150721_CircularHoles)
+      (footprint myLibrary:USB_Micro-B_Wuerth-614105150721_Vertical_CircularHoles)
       (libsource (lib myLibrary) (part USB_B_Micro))
       (sheetpath (names /) (tstamps /))
       (tstamp 59EFEC98))

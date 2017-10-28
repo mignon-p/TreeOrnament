@@ -50,7 +50,7 @@ U 1 1 59EFEC98
 P 1500 1400
 F 0 "J1" H 1300 1850 50  0000 L CNN
 F 1 "USB_B_Micro" H 1300 1750 50  0000 L CNN
-F 2 "myLibrary:USB_Micro-B_Wuerth-614105150721_CircularHoles" H 1650 1350 50  0001 C CNN
+F 2 "myLibrary:USB_Micro-B_Wuerth-614105150721_Vertical_CircularHoles" H 1650 1350 50  0001 C CNN
 F 3 "" H 1650 1350 50  0001 C CNN
 	1    1500 1400
 	1    0    0    -1  
