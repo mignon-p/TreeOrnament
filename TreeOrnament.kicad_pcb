@@ -669,17 +669,6 @@
     )
   )
 
-  (module myLibrary:Trunk (layer F.Cu) (tedit 59F126EC) (tstamp 59F0EDB6)
-    (at 135 124.5)
-    (fp_text reference REF** (at 0 -5.5) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value Trunk (at 0 5.5) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" smd rect (at 0 0) (size 10 9) (layers F.Mask))
-  )
-
   (module myLibrary:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal (layer F.Cu) (tedit 59F4C663) (tstamp 59F4C953)
     (at 114 96 333.4)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.16666666666666666W = 1/6W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
@@ -1230,6 +1219,17 @@
     (pad "" smd circle (at 0 0) (size 4 4) (layers F.Mask))
     (pad "" smd rect (at 0 -2) (size 1 1) (layers F.Mask))
     (pad "" smd circle (at 0 -2.5) (size 0.5 0.5) (layers F.Mask))
+  )
+
+  (module myLibrary:Trunk (layer F.Cu) (tedit 59F4D3BA) (tstamp 59F0EDB6)
+    (at 135 124.5)
+    (fp_text reference REF** (at 0 -5.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Trunk (at 0 5.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" smd rect (at 0 0) (size 10 9) (layers *.Mask))
   )
 
   (gr_line (start 140 129) (end 140 120) (angle 90) (layer Edge.Cuts) (width 0.15))
