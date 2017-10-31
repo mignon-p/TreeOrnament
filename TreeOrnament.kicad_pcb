@@ -13,6 +13,13 @@
   )
 
   (page USLetter)
+  (title_block
+    (title "Christmas Tree Ornament")
+    (date 2017-10-31)
+    (rev 1.1)
+    (company "Patrick Pelletier")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -1234,7 +1241,7 @@
 
   (gr_line (start 131.5 119.5) (end 131.5 110.5) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 141.5 110.5) (end 141.5 119.5) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_text "Merry Christmas from Patrick Pelletier" (at 149.5 107.5) (layer F.SilkS)
+  (gr_text "Patrick Pelletier / Christmas 2017" (at 134 93 26.6) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "Connect USB\ncharger here" (at 135.5 75.5) (layer F.SilkS)
