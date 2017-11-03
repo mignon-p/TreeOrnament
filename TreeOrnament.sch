@@ -35,10 +35,10 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Christmas Tree Ornament"
+Date "2017-11-02"
+Rev "1.1"
+Comp "Patrick Pelletier"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -388,9 +388,9 @@ Wire Wire Line
 	7600 1700 7600 1900
 Connection ~ 6700 1900
 Wire Wire Line
-	1400 1900 8050 1900
+	1400 1900 9600 1900
 Wire Wire Line
-	1800 1200 8400 1200
+	1800 1200 9600 1200
 $Comp
 L R R1
 U 1 1 59F4CC77
@@ -538,4 +538,55 @@ Wire Wire Line
 Wire Wire Line
 	8050 1700 8050 1900
 Connection ~ 7600 1900
+$Comp
+L C C1
+U 1 1 59FBC6D7
+P 8800 1550
+F 0 "C1" H 8825 1650 50  0000 L CNN
+F 1 "3.3uF" H 8825 1450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 8838 1400 50  0001 C CNN
+F 3 "" H 8800 1550 50  0001 C CNN
+	1    8800 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C2
+U 1 1 59FBC804
+P 9200 1550
+F 0 "C2" H 9225 1650 50  0000 L CNN
+F 1 "3.3uF" H 9225 1450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 9238 1400 50  0001 C CNN
+F 3 "" H 9200 1550 50  0001 C CNN
+	1    9200 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C3
+U 1 1 59FBC875
+P 9600 1550
+F 0 "C3" H 9625 1650 50  0000 L CNN
+F 1 "3.3uF" H 9625 1450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 9638 1400 50  0001 C CNN
+F 3 "" H 9600 1550 50  0001 C CNN
+	1    9600 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 1200 8800 1400
+Connection ~ 8400 1200
+Wire Wire Line
+	9200 1200 9200 1400
+Connection ~ 8800 1200
+Wire Wire Line
+	9600 1200 9600 1400
+Connection ~ 9200 1200
+Wire Wire Line
+	9600 1900 9600 1700
+Connection ~ 8050 1900
+Wire Wire Line
+	8800 1700 8800 1900
+Connection ~ 8800 1900
+Wire Wire Line
+	9200 1700 9200 1900
+Connection ~ 9200 1900
 $EndSCHEMATC
