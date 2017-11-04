@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 96.424999 20.424999 176.575001 121.575)
     (thickness 1.6)
-    (drawings 17)
+    (drawings 18)
     (tracks 141)
     (zones 0)
     (modules 47)
@@ -1347,6 +1347,9 @@
     )
   )
 
+  (gr_text "Micro B" (at 135 83.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
   (gr_line (start 131.5 119.5) (end 131.5 110.5) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 141.5 110.5) (end 141.5 119.5) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_text "Patrick Pelletier / Christmas 2017" (at 134 93 26.6) (layer F.SilkS)
