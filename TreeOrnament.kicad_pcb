@@ -3,7 +3,7 @@
   (general
     (links 50)
     (no_connects 0)
-    (area 96.424999 20.424999 176.575001 121.575)
+    (area 96.424999 20.424999 176.575001 119.575001)
     (thickness 1.6)
     (drawings 18)
     (tracks 141)
@@ -15,8 +15,8 @@
   (page USLetter)
   (title_block
     (title "Christmas Tree Ornament")
-    (date 2017-11-02)
-    (rev 1.1)
+    (date 2017-11-25)
+    (rev 1.2)
     (company "Patrick Pelletier")
   )
 
@@ -631,7 +631,7 @@
     (fp_text reference R1 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -663,7 +663,7 @@
     (fp_text reference R2 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -695,7 +695,7 @@
     (fp_text reference R3 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -727,7 +727,7 @@
     (fp_text reference R4 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -759,7 +759,7 @@
     (fp_text reference R5 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -791,7 +791,7 @@
     (fp_text reference R6 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -823,7 +823,7 @@
     (fp_text reference R7 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -855,7 +855,7 @@
     (fp_text reference R8 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -887,7 +887,7 @@
     (fp_text reference R9 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -919,7 +919,7 @@
     (fp_text reference R10 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -951,7 +951,7 @@
     (fp_text reference R11 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -983,7 +983,7 @@
     (fp_text reference R12 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -1015,7 +1015,7 @@
     (fp_text reference R13 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
@@ -1047,7 +1047,7 @@
     (fp_text reference R14 (at 2.54 1.86 206.6) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 150 (at 2.54 -1.86 206.6) (layer B.Fab) hide
+    (fp_text value 1k (at 2.54 -1.86 206.6) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 0.74 0.8) (end 0.74 -0.8) (layer B.Fab) (width 0.1))
