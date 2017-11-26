@@ -27,10 +27,10 @@ decoration, in which case the USB cable in the back acts as a sort of
   part number CF18JT1K00.  Digi-Key part number [CF18JT1K00CT-ND][4].
 
 * 3mm LEDs, qty 14.  Just about any 3mm LED should do, but I used
-  color-changing LEDs to add a bit of motion to the ornament.  When
-  soldering the LEDs, make sure the short leg of the LED goes into the
-  square pad, and the long leg of the LED goes into the round pad.
-  For color-changing LEDs: SparkFun part number [COM-11448][5].
+  color-changing LEDs to [add a bit of motion][13] to the ornament.
+  When soldering the LEDs, make sure the short leg of the LED goes
+  into the square pad, and the long leg of the LED goes into the round
+  pad.  For color-changing LEDs: SparkFun part number [COM-11448][5].
   Digi-Key part number [1568-1196-ND][6].
 
 * Optional: 3.3µF 0805 ceramic capacitor, qty 3.  These probably
@@ -94,3 +94,4 @@ This design is licensed under the
 [10]: http://katalog.we-online.de/em/datasheet/614105150721.pdf
 [11]: https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold
 [12]: https://creativecommons.org/licenses/by-sa/4.0/
+[13]: https://www.flickr.com/photos/107479024@N04/26884440769/
