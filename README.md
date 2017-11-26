@@ -82,6 +82,11 @@ the esthetics of the ornament.
 This design is licensed under the
 [Creative Commons Attribution-ShareAlike 4.0 International license][12].
 
+Some of the footprints in `myLibrary.pretty` are based on footprints
+in the [KiCad library][14], which is licensed under the
+[KiCad library license][15] (which is now also CC-BY-SA-4.0, with an
+exception).
+
 [1]: http://kicad-pcb.org/
 [2]: https://en.wikipedia.org/wiki/Gerber_format
 [3]: https://www.digikey.com/products/en?keywords=732-5958-1-ND
@@ -95,3 +100,5 @@ This design is licensed under the
 [11]: https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold
 [12]: https://creativecommons.org/licenses/by-sa/4.0/
 [13]: https://www.flickr.com/photos/107479024@N04/26884440769/
+[14]: https://github.com/KiCad/kicad-footprints
+[15]: https://forum.kicad.info/t/kicad-library-licensing/7856
