@@ -77,6 +77,12 @@ adds a customer ID number to the front of the board, but I wanted the
 number to be on the actual back of the board, where it doesn't disrupt
 the esthetics of the ornament.
 
+I recommend ordering more boards than you need, because some of the
+boards will have cosmetic defects.  (They still work fine
+electrically, but just don't make an ornament that looks as nice.)  In
+particular, the FR4 appears to have some red writing on it in places,
+so every now and then that will show up in the trunk of a tree.
+
 ## License
 
 This design is licensed under the
