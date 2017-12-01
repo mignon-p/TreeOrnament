@@ -83,6 +83,9 @@ electrically, but just don't make an ornament that looks as nice.)  In
 particular, the FR4 appears to have some red writing on it in places,
 so every now and then that will show up in the trunk of a tree.
 
+Another way to solve the problem of the red writing on the FR4 is to
+paint the trunk.  (e. g. with flat brown [Testors enamel paint][16])
+
 ## License
 
 This design is licensed under the
@@ -108,3 +111,4 @@ exception).
 [13]: https://www.flickr.com/photos/107479024@N04/26884440769/
 [14]: https://github.com/KiCad/kicad-footprints
 [15]: https://forum.kicad.info/t/kicad-library-licensing/7856
+[16]: https://www.testors.com/product-catalog/testors-brands/testors/enamel-paint/enamel-paints
