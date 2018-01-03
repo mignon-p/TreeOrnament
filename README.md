@@ -13,6 +13,11 @@ hole at the top of the ornament.  Or, you can use it as a standalone
 decoration, in which case the USB cable in the back acts as a sort of
 "[kickstand](kickstand.jpg)" to hold the tree up.
 
+This README should contain enough information to build the ornament.
+However, if you want more detailed, step-by-step instructions with
+pictures, I've also written
+[an Instructable on how to build the ornament][17].
+
 ## Bill of Materials
 
 * USB Micro B connector, qty 1.  Würth part number 614105150721.
@@ -56,7 +61,9 @@ to power the ornament.
 Most fabs should work fine, although you'll probably want a fab that
 offers green soldermask.  (That rules out OSH Park, unless you want
 purple trees!)  I went with [EasyEDA][9] because they are inexpensive
-and offer green soldermask.
+and offer green soldermask.  (However, it appears that EasyEDA is
+spinning off their circuit board manufacturing to the site
+[JLCPCB][18].)
 
 I went with a PCB thickness of 1.0mm, because that's what
 [the datasheet for the USB connector][10] recommends.  (With a thicker
@@ -112,3 +119,5 @@ exception).
 [14]: https://github.com/KiCad/kicad-footprints
 [15]: https://forum.kicad.info/t/kicad-library-licensing/7856
 [16]: https://www.testors.com/product-catalog/testors-brands/testors/enamel-paint/enamel-paints
+[17]: http://www.instructables.com/id/LED-Circuit-Board-Christmas-Tree-Ornament/
+[18]: https://jlcpcb.com/quote
