@@ -132,7 +132,7 @@ However, I feel that my version has some advantages:
 [10]: http://katalog.we-online.de/em/datasheet/614105150721.pdf
 [11]: https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold
 [12]: https://creativecommons.org/licenses/by-sa/4.0/
-[13]: https://www.flickr.com/photos/107479024@N04/26884440769/
+[13]: https://youtu.be/PZnlEJhb-sY
 [14]: https://github.com/KiCad/kicad-footprints
 [15]: https://forum.kicad.info/t/kicad-library-licensing/7856
 [16]: https://www.testors.com/product-catalog/testors-brands/testors/enamel-paint/enamel-paints
