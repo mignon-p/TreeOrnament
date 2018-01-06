@@ -47,8 +47,9 @@ pictures, I've also written
   the colors.)  Unlike all the other components, these are
   surface-mount, so they're a little trickier to solder.  It helps if
   you have a second person to hold the capacitor in place with
-  tweezers.  Samsung part number CL21A335KPFNNNG.  Digi-Key part
-  number [1276-6461-1-ND][7].
+  tweezers, though it's [possible for one person to do it][22].
+  Samsung part number CL21A335KPFNNNG.  Digi-Key part number
+  [1276-6461-1-ND][7].
 
 * Optional: string to hang the ornament.  Just about any string should
   do.  I used [Hemptique red cord][8].
@@ -141,3 +142,4 @@ However, I feel that my version has some advantages:
 [19]: https://forum.kicad.info/t/christmas-ornaments-designed-with-kicad/8674/2
 [20]: https://www.hackster.io/platisd/a-christmas-tree-pcb-ornament-8bc03b
 [21]: http://circtistic.com/
+[22]: https://youtu.be/cBgmY16goX0
