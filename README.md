@@ -103,6 +103,23 @@ in the [KiCad library][14], which is licensed under the
 [KiCad library license][15] (which is now also CC-BY-SA-4.0, with an
 exception).
 
+## Other circuit board trees
+
+I'm not the only one to have had this idea.  Here are some other folks
+who have made tree-shaped Christmas ornaments out of circuit boards:
+
+* [CyrilSneer][19]
+* [platisd][20]
+* [Circtistic][21]
+
+However, I feel that my version has some advantages:
+
+* More LEDs - My version has 14 LEDs.
+* "Cleaner" front - Mine has all the circuit traces on the back, so
+  the front is more esthetically pleasing.
+* USB Powered - Mine uses a USB charger instead of a battery, so you
+  can plug it in with the rest of the lights on your tree.
+
 [1]: http://kicad-pcb.org/
 [2]: https://en.wikipedia.org/wiki/Gerber_format
 [3]: https://www.digikey.com/products/en?keywords=732-5958-1-ND
@@ -121,3 +138,6 @@ exception).
 [16]: https://www.testors.com/product-catalog/testors-brands/testors/enamel-paint/enamel-paints
 [17]: http://www.instructables.com/id/LED-Circuit-Board-Christmas-Tree-Ornament/
 [18]: https://jlcpcb.com/quote
+[19]: https://forum.kicad.info/t/christmas-ornaments-designed-with-kicad/8674/2
+[20]: https://www.hackster.io/platisd/a-christmas-tree-pcb-ornament-8bc03b
+[21]: http://circtistic.com/
