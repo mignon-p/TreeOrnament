@@ -121,7 +121,7 @@ However, I feel that my version has some advantages:
 * USB Powered - Mine uses a USB charger instead of a battery, so you
   can plug it in with the rest of the lights on your tree.
 
-[1]: http://kicad-pcb.org/
+[1]: http://kicad.org/
 [2]: https://en.wikipedia.org/wiki/Gerber_format
 [3]: https://www.digikey.com/products/en?keywords=732-5958-1-ND
 [4]: https://www.digikey.com/products/en?keywords=CF18JT1K00CT-ND
